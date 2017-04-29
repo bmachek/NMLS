@@ -1,0 +1,6 @@
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\SchemaExtender\bin\Debug\SchemaExtender.exe.config
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\SchemaExtender\bin\Debug\SchemaExtender.exe
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\SchemaExtender\bin\Debug\SchemaExtender.pdb
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\SchemaExtender\obj\Debug\SchemaExtender.csprojResolveAssemblyReference.cache
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\SchemaExtender\obj\Debug\SchemaExtender.exe
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\SchemaExtender\obj\Debug\SchemaExtender.pdb

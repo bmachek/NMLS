@@ -1,0 +1,6 @@
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\Logon\bin\Debug\Logon.exe.config
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\Logon\bin\Debug\Logon.exe
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\Logon\bin\Debug\Logon.pdb
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\Logon\obj\Debug\Logon.csprojResolveAssemblyReference.cache
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\Logon\obj\Debug\Logon.exe
+C:\Users\bm\documents\visual studio 2015\Projects\NMLS\Logon\obj\Debug\Logon.pdb
